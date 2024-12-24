@@ -13,7 +13,7 @@ Hello ✌🏼
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-3178C6?style=for-the-badge&logo=drizzle&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C7F756?style=for-the-badge&logo=drizzle&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-00A9F4?style=for-the-badge&logo=neon&logoColor=white)
 ![Turso](https://img.shields.io/badge/Turso-FFA500?style=for-the-badge&logo=turso&logoColor=black)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
