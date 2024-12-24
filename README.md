@@ -19,7 +19,7 @@ Hello! ✌🏼
 ![Neon](https://img.shields.io/badge/Neon-black?logoColor=white&labelColor=8DFFCE)
 ![Turso](https://img.shields.io/badge/Turso-57F8D3?logo=turso&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-5E6CD9?logo=prisma&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-062638?logo=amazonaws&logoColor=white&labelColor=F69800)
 ![Figma](https://img.shields.io/badge/Figma-393939?logo=figma&logoColor=FA7054)
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?logo=adobe&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-119F7B?logo=openai&logoColor=white)
