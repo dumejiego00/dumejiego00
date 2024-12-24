@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hello ✌🏼
 
-## 🛠️ Technologies & Tools
+## I have experience with these technologies & tools
 
 ### Languages:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -51,11 +51,6 @@ Here are some ideas to get you started:
 
 ### AI & ML:
 ![LangChain](https://img.shields.io/badge/LangChain-FF9900?style=for-the-badge&logo=langchain&logoColor=black)
-
-## 📈 GitHub Stats
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielumejiego&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielumejiego&layout=compact&theme=radical)
 
 
 
