@@ -16,7 +16,7 @@ Hello ✌🏼
 ![Drizzle](https://img.shields.io/badge/Drizzle-black?style=for-the-badge&logo=drizzle&logoColor=C7F756)
 ![Neon](https://img.shields.io/badge/Neon-00A9F4?style=for-the-badge&logo=neon&logoColor=white)
 ![Turso](https://img.shields.io/badge/Turso-57F8D3?style=for-the-badge&logo=turso&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-5E6CD9?style=for-the-badge&logo=prisma&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
