@@ -15,7 +15,7 @@ Hello! ✌🏼
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle-black?logo=drizzle&logoColor=C7F756)
-![Neon](https://img.shields.io/badge/Neon-8DFFCE?logo=&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-8DFFCE?logo=neon&logoColor=white)
 ![Turso](https://img.shields.io/badge/Turso-57F8D3?logo=turso&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-5E6CD9?logo=prisma&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
