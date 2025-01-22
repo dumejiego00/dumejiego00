@@ -7,6 +7,8 @@ Hello! ✌🏼
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?logo=adobe&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-119F7B?logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1E3C3E?logo=langchain&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
+
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
