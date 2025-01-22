@@ -2,7 +2,6 @@ Hello! ✌🏼
 
 ![Top Langs](https://github-readme-stats-two-murex-58.vercel.app/api/top-langs/?username=dumejiego00&layout=compact&bg_color=0a2239&text_color=FFFFFF)
 
-
 ![Figma](https://img.shields.io/badge/Figma-393939?logo=figma&logoColor=FA7054)
 ![AWS](https://img.shields.io/badge/AWS-062638?logo=amazonaws&logoColor=white&labelColor=F69800)
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?logo=adobe&logoColor=white)
