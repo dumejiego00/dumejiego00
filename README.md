@@ -4,7 +4,6 @@ Hello! ✌🏼
 
 ![Figma](https://img.shields.io/badge/Figma-393939?logo=figma&logoColor=FA7054)
 ![AWS](https://img.shields.io/badge/AWS-062638?logo=amazonaws&logoColor=white&labelColor=F69800)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?logo=adobe&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-119F7B?logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1E3C3E?logo=langchain&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
