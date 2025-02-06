@@ -9,11 +9,12 @@ Hello! ✌🏼
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
 
 
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=yellow)
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-DEA584?logo=rust&logoColor=black)
 
 ![EJS](https://img.shields.io/badge/EJS-B4CA65?logoColor=white&labelColor=A91F50)
 ![Astro](https://img.shields.io/badge/Astro-ff5f01?logo=astro&logoColor=white)
