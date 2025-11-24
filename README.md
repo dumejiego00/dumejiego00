@@ -11,7 +11,7 @@
 <h1>Personal Projects</h1>
 <ul>
   <li><a href=https://preflopmaster.jp>Preflop Master</a></li>
-  <li><a href=https://yeuphoristic.xyz>Music Gallery</a></li>
+  
 </ul>
 <h1>Group Projects</h1>
 <ul>
